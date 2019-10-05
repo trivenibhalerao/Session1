@@ -8,7 +8,6 @@ public class CloneDemo implements Cloneable{
 	public CloneDemo(int value, String str){
 		this.value=value;
 		this.str=str;
-		//test
 	}
 	
 	public static void main(String[] args) {
